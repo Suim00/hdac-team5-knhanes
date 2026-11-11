@@ -1,4 +1,4 @@
-### 그림
+### DAG
 
 ```mermaid
 flowchart LR
